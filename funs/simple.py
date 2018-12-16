@@ -2,14 +2,20 @@ def fun():
     print("Having fun!")
 
 
-def add(a=1, b=1):
+def add(*,a, b):
     print(a + b)
 
+# add(a=10,b=20)
+# add(b=10,a=20)
 
-fun()
-add(10, 20)
-add('A', 'B')
-# add(10,'A')
-add(10)
-add()
 
+def hello(*names,message="Hello"):
+    for n in names:
+        print(message,n)
+
+def info(**details):
+    print(details)
+
+
+info(a=10,b=20,c=30,message ='hello')
+info(mobile='393933', email='abc@gmail.com')
