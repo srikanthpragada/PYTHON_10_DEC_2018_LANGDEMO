@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2195ce9-788b-46d6-8efc-24bf6c4344c8" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/oop/product.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oop/test_product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/langdemo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/langdemo.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/product.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/oop/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/test_product.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -67,12 +66,18 @@
       <file leaf-file-name="product.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/oop/product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+            <state relative-caret-position="329">
+              <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
               <folding>
-                <element signature="e#196#203#0" />
-                <element signature="e#361#474#0" />
-                <element signature="e#385#400#0" />
+                <element signature="e#81#93#0" />
+                <element signature="e#116#168#0" />
+                <element signature="e#134#249#0" />
+                <element signature="e#302#349#0" />
+                <element signature="e#384#680#0" />
+                <element signature="e#881#942#0" />
+                <element signature="e#1198#1225#0" />
+                <element signature="e#1280#1311#0" />
+                <element signature="e#1360#1377#0" />
               </folding>
             </state>
           </provider>
@@ -82,7 +87,7 @@
         <entry file="file://$PROJECT_DIR$/oop/test_product.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="3" column="19" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="19" />
+              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -314,10 +319,10 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21303657" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124007" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.318323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.19875777" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -686,18 +691,24 @@
     <entry file="file://$PROJECT_DIR$/oop/test_product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="19" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="19" />
+          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/product.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" column="22" lean-forward="true" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
+        <state relative-caret-position="329">
+          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
           <folding>
-            <element signature="e#196#203#0" />
-            <element signature="e#361#474#0" />
-            <element signature="e#385#400#0" />
+            <element signature="e#81#93#0" />
+            <element signature="e#116#168#0" />
+            <element signature="e#134#249#0" />
+            <element signature="e#302#349#0" />
+            <element signature="e#384#680#0" />
+            <element signature="e#881#942#0" />
+            <element signature="e#1198#1225#0" />
+            <element signature="e#1280#1311#0" />
+            <element signature="e#1360#1377#0" />
           </folding>
         </state>
       </provider>
