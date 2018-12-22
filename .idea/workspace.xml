@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2195ce9-788b-46d6-8efc-24bf6c4344c8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/oop/inh_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/minh2_demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/oop/minh_demo.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/product.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/product.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/oop/test_product.py" beforeDir="false" afterPath="$PROJECT_DIR$/oop/test_product.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,22 +64,38 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="product.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="product.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/oop/product.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="329">
-              <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-              <folding>
-                <element signature="e#81#93#0" />
-                <element signature="e#116#168#0" />
-                <element signature="e#134#249#0" />
-                <element signature="e#302#349#0" />
-                <element signature="e#384#680#0" />
-                <element signature="e#881#942#0" />
-                <element signature="e#1198#1225#0" />
-                <element signature="e#1280#1311#0" />
-                <element signature="e#1360#1377#0" />
-              </folding>
+            <state relative-caret-position="305">
+              <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="inh_demo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/inh_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="264">
+              <caret line="20" column="31" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minh_demo.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/oop/minh_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="89">
+              <caret line="20" column="23" lean-forward="true" selection-end-line="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="minh2_demo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/oop/minh2_demo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
         </entry>
@@ -87,7 +104,7 @@
         <entry file="file://$PROJECT_DIR$/oop/test_product.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+              <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -136,6 +153,9 @@
         <option value="$PROJECT_DIR$/funs/use_st.py" />
         <option value="$PROJECT_DIR$/oop/product.py" />
         <option value="$PROJECT_DIR$/oop/test_product.py" />
+        <option value="$PROJECT_DIR$/oop/inh_demo.py" />
+        <option value="$PROJECT_DIR$/oop/minh_demo.py" />
+        <option value="$PROJECT_DIR$/oop/minh2_demo.py" />
       </list>
     </option>
   </component>
@@ -153,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,6 +194,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="RecentsManager">
@@ -194,8 +214,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.test_product">
-    <configuration name="num_funs" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.minh2_demo">
+    <configuration name="inh_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="langdemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -203,11 +223,47 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/num_funs.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/inh_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="minh2_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="langdemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/minh2_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="minh_demo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="langdemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oop" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oop/minh_demo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,56 +305,20 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="use_nums" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="langdemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/use_nums.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="use_st" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="langdemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/funs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/funs/use_st.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
     <list>
-      <item itemvalue="Python.num_funs" />
-      <item itemvalue="Python.use_nums" />
-      <item itemvalue="Python.use_st" />
       <item itemvalue="Python.product" />
       <item itemvalue="Python.test_product" />
+      <item itemvalue="Python.inh_demo" />
+      <item itemvalue="Python.minh_demo" />
+      <item itemvalue="Python.minh2_demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.minh2_demo" />
+        <item itemvalue="Python.minh_demo" />
+        <item itemvalue="Python.inh_demo" />
         <item itemvalue="Python.test_product" />
         <item itemvalue="Python.product" />
-        <item itemvalue="Python.use_st" />
-        <item itemvalue="Python.use_nums" />
-        <item itemvalue="Python.num_funs" />
       </list>
     </recent_temporary>
   </component>
@@ -322,13 +342,13 @@
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18124007" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.19875777" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34472048" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -342,27 +362,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numbers_1_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/factors.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="9" lean-forward="true" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/ex/nodays.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
@@ -691,25 +690,35 @@
     <entry file="file://$PROJECT_DIR$/oop/test_product.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
-          <caret line="3" column="18" lean-forward="true" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/oop/product.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="55" column="34" lean-forward="true" selection-start-line="55" selection-start-column="34" selection-end-line="55" selection-end-column="34" />
-          <folding>
-            <element signature="e#81#93#0" />
-            <element signature="e#116#168#0" />
-            <element signature="e#134#249#0" />
-            <element signature="e#302#349#0" />
-            <element signature="e#384#680#0" />
-            <element signature="e#881#942#0" />
-            <element signature="e#1198#1225#0" />
-            <element signature="e#1280#1311#0" />
-            <element signature="e#1360#1377#0" />
-          </folding>
+        <state relative-caret-position="305">
+          <caret line="54" column="23" lean-forward="true" selection-start-line="54" selection-start-column="23" selection-end-line="54" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/inh_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="20" column="31" lean-forward="true" selection-start-line="19" selection-start-column="4" selection-end-line="20" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/minh_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="20" column="23" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/oop/minh2_demo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
     </entry>
