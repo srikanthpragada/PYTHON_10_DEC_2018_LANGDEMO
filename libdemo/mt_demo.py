@@ -9,7 +9,7 @@ class ChildThread(threading.Thread):
 
 def print_nums():
     for i in range(1, 11):
-        print("Child 2 : " , i)
+        print("Child 2 : ", i)
 
 
 mt = threading.main_thread()
