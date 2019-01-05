@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2195ce9-788b-46d6-8efc-24bf6c4344c8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/db/add_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/delete_book.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db/update_book.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libdemo/list_contacts.py" beforeDir="false" afterPath="$PROJECT_DIR$/libdemo/list_contacts.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/libdemo/mt_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/libdemo/mt_demo.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,15 +16,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="list_python_files.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/list_python_files.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="list_countries.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/list_countries.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -40,19 +32,7 @@
         <entry file="file://$PROJECT_DIR$/libdemo/list_batches.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
-              <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="list_scripts_of_flipkart.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/list_scripts_of_flipkart.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="28" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
+              <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -63,8 +43,8 @@
       <file leaf-file-name="list_contacts.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/libdemo/list_contacts.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="94">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+            <state relative-caret-position="120">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -72,8 +52,8 @@
       <file leaf-file-name="tables.sql" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/tables.sql">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="240">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -82,7 +62,7 @@
         <entry file="file://$PROJECT_DIR$/db/test_connection.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="5" column="12" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
+              <caret line="5" column="12" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -90,26 +70,44 @@
       <file leaf-file-name="list_books.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/db/list_books.py">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="5" column="47" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="47" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avg_price.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/avg_price.py">
+          <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="48">
               <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="avg_price.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/db/avg_price.py">
+      <file leaf-file-name="add_book.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/add_book.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="24">
-              <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+            <state relative-caret-position="168">
+              <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="mt_demo.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/libdemo/mt_demo.py">
+      <file leaf-file-name="delete_book.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db/delete_book.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="192">
+              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_book.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/db/update_book.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="24">
+              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
@@ -129,9 +127,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/hello.py" />
-        <option value="$PROJECT_DIR$/even_odd.py" />
-        <option value="$PROJECT_DIR$/numbers_1_10.py" />
         <option value="$PROJECT_DIR$/average_numbers.py" />
         <option value="$PROJECT_DIR$/factors.py" />
         <option value="$PROJECT_DIR$/ex/nodays.py" />
@@ -180,6 +175,9 @@
         <option value="$PROJECT_DIR$/db/test_connection.py" />
         <option value="$PROJECT_DIR$/db/list_books.py" />
         <option value="$PROJECT_DIR$/db/avg_price.py" />
+        <option value="$PROJECT_DIR$/db/add_book.py" />
+        <option value="$PROJECT_DIR$/db/delete_book.py" />
+        <option value="$PROJECT_DIR$/db/update_book.py" />
       </list>
     </option>
   </component>
@@ -239,7 +237,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.avg_price">
+  <component name="RunManager" selected="Python.update_book">
+    <configuration name="add_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="langdemo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/add_book.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="avg_price" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="langdemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -258,7 +274,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="list_batches" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="delete_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="langdemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -266,11 +282,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_batches.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/delete_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -294,25 +310,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="list_contacts" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="langdemo" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libdemo" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libdemo/list_contacts.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test_connection" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="update_book" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="langdemo" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -324,26 +322,26 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/test_connection.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/db/update_book.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.list_contacts" />
-      <item itemvalue="Python.list_batches" />
-      <item itemvalue="Python.test_connection" />
       <item itemvalue="Python.list_books" />
       <item itemvalue="Python.avg_price" />
+      <item itemvalue="Python.add_book" />
+      <item itemvalue="Python.delete_book" />
+      <item itemvalue="Python.update_book" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.avg_price" />
+        <item itemvalue="Python.update_book" />
+        <item itemvalue="Python.delete_book" />
+        <item itemvalue="Python.add_book" />
         <item itemvalue="Python.list_books" />
-        <item itemvalue="Python.test_connection" />
-        <item itemvalue="Python.list_batches" />
-        <item itemvalue="Python.list_contacts" />
+        <item itemvalue="Python.avg_price" />
       </list>
     </recent_temporary>
   </component>
@@ -364,10 +362,10 @@
     <frame x="-8" y="-8" width="1296" height="776" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14228936" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14228936" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.47360247" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.27795032" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -387,27 +385,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/even_odd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/numbers_1_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="7" column="24" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/factors.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -693,8 +670,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/mt_demo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="192">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
@@ -711,7 +688,7 @@
     <entry file="file://$PROJECT_DIR$/libdemo/list_batches.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
-          <caret line="2" column="10" lean-forward="true" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -720,36 +697,57 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/libdemo/list_contacts.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="94">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/db/tables.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="4" column="20" lean-forward="true" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+        <state relative-caret-position="120">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/test_connection.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="5" column="12" lean-forward="true" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
+          <caret line="5" column="12" selection-start-line="3" selection-end-line="5" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/db/list_books.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/avg_price.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="48">
           <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/db/avg_price.py">
+    <entry file="file://$PROJECT_DIR$/db/tables.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/add_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/delete_book.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db/update_book.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="24">
-          <caret line="1" column="14" lean-forward="true" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
